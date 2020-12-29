@@ -1,6 +1,6 @@
 # Angular Quick Readme
 
-This is a the template ready readme file for your Angular projects. Feel free to use.
+This is the template ready readme file for your Angular projects. Feel free to use.
 
 ## -Project Name-
 
