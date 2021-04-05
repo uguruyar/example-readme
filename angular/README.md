@@ -12,7 +12,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ```shell
 git clone https://github.com/username/xxx-project-name-xxx
-cd intern-angular
+cd xxx-project-name-xxx
 ```
 
 ### Install npm packages
